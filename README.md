@@ -1,2 +1,33 @@
 # OpenWebUI-Docker
+
 Docker based OpenWebUI
+
+## Requirements
+
+- Docker
+  - Install by visiting <https://docs.docker.com/get-docker/>
+- Docker Compose
+  - Install by visiting <https://docs.docker.com/compose/install/>
+- Git
+  - Install by visiting <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
+- Ollama
+  - Install by visiting <https://ollama.com/download>
+
+## Setup
+
+Once you have all the requirements installed, you can clone this repository
+and run the following commands:
+
+```bash
+git clone https://github.com/amit-raut/OpenWebUI-Docker.git
+cd OpenWebUI-Docker
+docker compose up -d
+```
+
+Hope this helps you to get started with OpenWebUI using Docker.
+If you have any questions or issues, feel free to open an issue on the GitHub repository.
+
+Enjoy using OpenWebUI!
+
+</br>
+Amit Raut
