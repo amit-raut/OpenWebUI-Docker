@@ -27,6 +27,20 @@ docker compose up -d
 Hope this helps you to get started with OpenWebUI using Docker.
 If you have any questions or issues, feel free to open an issue on the GitHub repository.
 
+## Usage
+
+To start using OpenWebUI web interface simply visit <http://localhost:3000>,
+sign-up / sign-in for your local account.
+
+## Update
+
+To update the OpenWebUI, you can run the following commands while inside
+the `OpenWebUI-Docker` directory:
+
+```bash
+docker compose pull && docker compose up -d --force-recreate
+```
+
 Enjoy using OpenWebUI!
 
 </br>
