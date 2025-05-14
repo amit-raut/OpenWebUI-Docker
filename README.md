@@ -30,7 +30,11 @@ If you have any questions or issues, feel free to open an issue on the GitHub re
 ## Usage
 
 To start using OpenWebUI web interface simply visit <http://localhost:3000>,
-sign-up / sign-in for your local account.
+sign-up for your local account.
+
+After loggging into OpenWebUI you'll find Chat Interface as shown in screenshot below:
+![image](https://github.com/user-attachments/assets/3afc198c-5d2b-43ac-b237-49e811569088)
+
 
 ## Update
 
